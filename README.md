@@ -1,2 +1,19 @@
 # NetworkStack
-The purpose of this project is for learning more about network layers and protocols as well as diving deeper into c++. The end goal will be a full network stack that implements all of the layers of the OSI model including the physical layer. Understanding at the physical layer how different cables effect transfer of data and how the electrical impulses are sent/read and interpreted. All the way up to the application layer to implement an example application that implements all of the lower layers for proof of concept.
+--
+A full network stack utilizing the OSI model to explore network communication
+--
+
+## Motivation
+--
+The goals of this project are
+* To deep dive into each seperate networking layer for greater understanding of network communication as a whole
+* To utilize the speed of c++ and explore any advanced concepts needed to create each layer
+* To create, as simple as possible, example implementations of each layer
+* To create an application layer that exposes ports and sockets easily to understand the operation at a simple layer
+* The end result goal is a full stack with an example application that utilizes all parts as a proof of concept
+--
+
+## Build Status
+--
+
+
