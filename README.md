@@ -10,41 +10,37 @@ The goals of this project are
 * The end result goal is a full stack with an example application that utilizes all parts as a proof of concept
 
 ## Build Status
-
-
+No builds
 
 ## How To Use
-
+(Todo)
 
 ## Code Style
-
+(Todo)
 
 ## Screenshots
-
+(Todo)
 
 ## Packages Used
-
+(Todo)
 
 ## Features
-
+(Todo)
 
 ## Code Example
-
-
+(Todo)
 
 ## Installation
-
-
+(Todo)
 
 ## API Reference
-
-
+(Todo)
 
 ## Tests
-
+(Todo)
 
 ## Credits
-
+(Todo)
 
 ## License
 MIT © Josh Schweigert
