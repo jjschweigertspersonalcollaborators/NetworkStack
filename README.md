@@ -13,7 +13,7 @@ The goals of this project are
 No builds
 
 ## Wiki
-https://github.com/jjschweigertpsersonalcollaborators/NetworkStack/wiki
+[NetworkStack Wiki](https://github.com/jjschweigertpsersonalcollaborators/NetworkStack/wiki)
 
 ## How To Use
 (Todo)
